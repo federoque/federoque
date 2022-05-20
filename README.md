@@ -4,7 +4,7 @@ Hi 👋 My name is Federico Roque
 Web Full Stack Developer
 ------------------------
 
-I am an Industrial Engineer and have worked in industrial plants for many years. I´ve been learning programming in a self-taught way until I entered a Web Full Stack development Bootcamp: I realized that coding is my passion.
+I am an Industrial Engineer and have worked in industrial plants for many years. I´ve been learning programming in a self-taught way for an year until I entered a Web Full Stack development Bootcamp: I realized that coding is my passion.
 
 * 🌍  I'm based in Bahía Blanca, Buenos Aires, Argentina.
 * ✉️  You can contact me at [roquefede@gmail.com](mailto:roquefede@gmail.com)
