@@ -8,8 +8,8 @@ I am an Industrial Engineer and have worked in industrial plants for many years.
 
 * 🌍  I'm based in Bahía Blanca, Buenos Aires, Argentina.
 * ✉️  You can contact me at [roquefede@gmail.com](mailto:roquefede@gmail.com)
-* 🚀  I'm ave worked on [MultimediaApp](https://github.com/federoque/MultimediaApp.git)
-* 🚀  I'm ave worked  on [Attend](https://github.com/MartinezBruno/Proyecto-Final-Henry)
+* 🚀  I have worked on [MultimediaApp](https://github.com/federoque/MultimediaApp.git)
+* 🚀  I have worked  on [Attend](https://github.com/MartinezBruno/Proyecto-Final-Henry)
 * 🚀  I have worked on [DogApp](http://github.com/federoque/DogsApp.git)
 * 🚀  I have worked on [Arenera Roque](https://federoque.github.io/aplicandoboostrap)
 * 🧠  I'm learning TypeScript and English
