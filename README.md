@@ -12,7 +12,7 @@ I am an Industrial Engineer and have worked in industrial plants for many years.
 * 🚀  I have worked  on [Attend](https://github.com/MartinezBruno/Proyecto-Final-Henry)
 * 🚀  I have worked on [DogApp](http://github.com/federoque/DogsApp.git)
 * 🚀  I have worked on [Arenera Roque](https://federoque.github.io/aplicandoboostrap)
-* 🧠  I'm learning TypeScript and English
+* 🧠  I'm learning TypeScript, AWS and English
 * 🚀  I currently work for BeMaster (Colombia)
 
 ### Skills
