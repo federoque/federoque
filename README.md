@@ -9,7 +9,9 @@ Coding is my passion!
 
 * 🌍  I'm based in Bahía Blanca, Buenos Aires, Argentina.
 * ✉️  You can contact me at [roquefede@gmail.com](mailto:roquefede@gmail.com)
-* 🚀  I worked 1 year for BeMaster (Colombia)
+* 🚀  I'm working as Frontend Developer for [Nexosmart](https://www.nexosmart.com.ar/)
+* 🚀  I worked 1 year for [Bemaster](https://www.bemaster.com)
+* 🚀  I have worked on [Exchanging](https://github.com/federoque/Exchanging.git)
 * 🚀  I have worked on [DoSomething!](https://github.com/federoque/DoSomethingApp.git)
 * 🚀  I have worked on [MultimediaApp](https://github.com/federoque/MultimediaApp.git)
 * 🚀  I have worked  on [Attend](https://github.com/MartinezBruno/Proyecto-Final-Henry)
