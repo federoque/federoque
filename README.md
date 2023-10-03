@@ -3,12 +3,13 @@ Hi 👋 My name is Federico Roque
 
 FullStack Developer
 ------------------------
-I have 1 year of work experience in FullStack development an more than 3 years of web development study.
+I have more than year of work experience as FullStack developer and more than 3 years of web development study.
 Also, I am an Industrial Engineer and have worked in industrial plants for many years.
 Coding is my passion!
 
 * 🌍  I'm based in Bahía Blanca, Buenos Aires, Argentina.
 * ✉️  You can contact me at [roquefede@gmail.com](mailto:roquefede@gmail.com)
+* 🚀  I'm working as Backend Developer for [Qxm](https://www.qxm.com.ar/)
 * 🚀  I'm working as Frontend Developer for [Nexosmart](https://www.nexosmart.com.ar/)
 * 🚀  I worked 1 year for [Bemaster](https://www.bemaster.com)
 * 🚀  I have worked on [Exchanging](https://github.com/federoque/Exchanging.git)
@@ -17,8 +18,6 @@ Coding is my passion!
 * 🚀  I have worked  on [Attend](https://github.com/MartinezBruno/Proyecto-Final-Henry)
 * 🚀  I have worked on [DogApp](http://github.com/federoque/DogsApp.git)
 * 🚀  I have worked on [Arenera Roque](https://federoque.github.io/aplicandoboostrap)
-* 🧠  I'm learning English and Angular
-
 
 ### Skills
 
@@ -37,6 +36,7 @@ Coding is my passion!
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a>
 </p>
 
 
